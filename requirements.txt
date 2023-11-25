@@ -1,3 +1,4 @@
+SpeechRecognition~=3.10.0
 pip~=23.3.1
 attrs~=21.2.0
 distro~=1.7.0
